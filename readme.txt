@@ -1,4 +1,3 @@
 Git is a version control system.
 Git is free software.
-This is miamiocean.
-This is candy.
+Today is 2017.10.14.
